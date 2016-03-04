@@ -1,0 +1,29 @@
+                                          JSplash Java-IDE User Guide-
+
+
+The JSplash is standalone application/desktop application which is developed to compile and run the java programs using Graphical User Friendly Interface
+in order to provide various functionalities.
+
+This JavaIDE Application supports following features:
+
+1.You can create Projects i.e, directories to store your java files.
+
+2.You can create Java Files from this application itself.
+
+3.You can open pre-existing Java Files.
+
+4.You can compile the Java Files.
+
+5.You can run the Java Class Files.
+
+6.You can stop the execution of Java Class File.
+
+7.You can delete the Java File which is in current use.
+
+8.You can delete the Project which contains the java file which is in current use.
+
+9.The Project Explorer gives ease to handle multiple java files and projects.
+
+10. You can send document, image and video files.
+
+11.The Help menu item gives you the required docs of this JavaIDE Applications.
