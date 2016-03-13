@@ -12,17 +12,14 @@ application is developed to enable the user to work upon different source files 
 This application is developed in Java Programming Language including the different concepts like swing, sockets networking and 
 is efficient in both time and space complexity.
 
-## 2.	Developed by- 
-            Ankit Kumar Sharma
-
-## 3.	Technologies Used:
+## 2.	Technologies Used:
 The following are the technologies and concepts which are used to develop this software:
   - Java Core,
   - Java Swing,
   - Java Socket Networking, and
   - Look&Feel jar.
 
-## 4.	Functionalities and Features:
+## 3.	Functionalities and Features:
 This JavaIDE Application supports following features:
   - Create the Projects i.e, directories to store your java files.
   - Create the Java Files from this application itself.
@@ -36,13 +33,13 @@ This JavaIDE Application supports following features:
   - You can send document, image and video files.
   - The Help menu item gives you the required docs of this JavaIDE Applications.
 
-## 5.	Required Environment:
+## 4.	Required Environment:
 The following are the requirements to run the JavaIDE-BDCoE application on the system:
   - JDK-1.5 or above must be installed.
   - Any  Operating System on the system.
   - “java” and “javac” environmental variables must be defined.
 
-## 6.	Scope:
+## 5.	Scope:
 The JavaIDE-BDCoE application can be used:
   - Individually at home,
   - Professionally in Companies with team members,
@@ -51,7 +48,7 @@ The JavaIDE-BDCoE application can be used:
   - For learning and teaching purposes, and
   - Available as open-source software
 
-## 7. Getting Started
+## 6. Getting Started
 ### For Use:
 Run the JSplash.jar file from dist folder in the project folder.
 
